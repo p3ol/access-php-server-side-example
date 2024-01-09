@@ -2,7 +2,7 @@
 
 > Simple PHP example of how to use Poool Access SDK with server side content locking
 
-## Requirements
+### Requirements
 
 - Node >= 18
 - PHP >= 8.1
