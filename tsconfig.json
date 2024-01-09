@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "target": "ES5",
+    "lib": ["dom"],
+    "module": "esnext"
+  },
+  "include": [
+    "./globals.d.ts",
+    "./*.ts"
+  ]
+}

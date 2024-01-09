@@ -1,0 +1,30 @@
+{
+  "name": "poool/php-example",
+  "version": "1.0.0",
+  "description": "Simple PHP example of how to use Poool Access SDK with server side content locking",
+  "homepage": "https://github.com/p3ol/php-example",
+  "license": "MIT",
+  "authors": [{
+      "name": "Ugo Stephant",
+      "email": "ugo@poool.fr",
+      "homepage": "https://poool.dev"
+  }],
+  "require": {
+      "php" : ">=8.1.0",
+      "vlucas/phpdotenv": "5.6.0"
+  },
+  "require-dev": {
+      "squizlabs/php_codesniffer": "3.7.1"
+  },
+  "scripts": {
+      "dev": [
+          "php -S localhost:62000 index.php"
+      ],
+      "lint": [
+          "./vendor/bin/phpcs index.php"
+      ]
+  },
+  "config": {
+      "process-timeout":0
+  }
+}
