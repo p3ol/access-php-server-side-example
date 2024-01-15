@@ -1,5 +1,5 @@
 {
-  "name": "@poool/php-example",
+  "name": "@poool/access-php-server-side-example",
   "version": "1.0.0",
   "main": "index.js",
   "description": "Simple PHP example of how to use Poool Access SDK with server side content locking",
@@ -11,8 +11,8 @@
     "buffer": "6.0.3"
   },
   "devDependencies": {
-    "@types/eslint": "8.56.1",
-    "@types/node": "20.10.7",
+    "@types/eslint": "8.56.2",
+    "@types/node": "20.11.1",
     "@typescript-eslint/eslint-plugin": "6.18.1",
     "@typescript-eslint/parser": "6.18.1",
     "eslint": "8.56.0",

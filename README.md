@@ -1,4 +1,4 @@
-# php-example
+# @poool/access-php-server-side-example
 
 > Simple PHP example of how to use Poool Access SDK with server side content locking
 
