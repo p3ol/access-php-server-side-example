@@ -6,7 +6,7 @@
   "repository": "https://github.com/p3ol/php-example.git",
   "author": "Ugo Stephant <ugo@poool.fr>",
   "license": "MIT",
-  "packageManager": "yarn@4.0.2",
+  "packageManager": "yarn@4.5.1",
   "dependencies": {
     "buffer": "6.0.3"
   },
